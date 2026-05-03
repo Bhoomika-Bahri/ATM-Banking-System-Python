@@ -1,0 +1,1 @@
+{"1001": {"name": "Alice", "pin": "2346", "currency": "EUR", "balance": 3400.0, "transactions": ["Deposited \u20ac3400.0"]}}
